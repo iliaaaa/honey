@@ -1,0 +1,12 @@
+.about {
+  background-color: #FFB742;
+  text-align: justify;
+  font-family: 'Roboto', sans-serif;
+  padding: 30px 30px;
+  font-size: 16px;
+}
+
+.text-about {
+  max-width: 80%;
+  margin: 0 auto;
+}
