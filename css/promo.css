@@ -5,8 +5,7 @@
 }
 
 .promo {
-  background-image:url('../img/soty.jpg');
-  background-size: cover;
+  background: transparent;
   width: 100%;
   height: 350px;
 }
